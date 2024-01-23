@@ -4,10 +4,11 @@
 </p>
 
 <h3 align="center">
-  Get full confidence in your business critical data assets
+  The Data Trust Platform
 </h3>
 <p align="center">
-  Validio catches bad data within seconds in your streams, lakes, and warehouses
+  Maximize return on data & AI investments unifying deep data observability,
+  quality, lineage, and catalog
 </p>
 
 <hr>
