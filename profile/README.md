@@ -4,11 +4,11 @@
 </p>
 
 <h3 align="center">
-  The Data Trust Platform
+  Automated data quality and metrics monitoring
 </h3>
 <p align="center">
-  Maximize return on data & AI investments unifying deep data observability,
-  quality, lineage, and catalog
+  Validio gives you automated data quality and metrics monitoring. Get real-time
+  insights and prevent anomalies from affecting your business.
 </p>
 
 <hr>
